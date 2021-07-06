@@ -63,10 +63,21 @@ h3{
     box-shadow: 1px 2px 4px black;
     padding: 20px;
     border-radius: 20px;
+    align-items: center;
 }
 .img-style{
     width: 100%;
 }
 h4{
     font-size: 30px;
+}
+.font-style{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.bag{
+    background-color: black;
+    text-align: center;
+    
 }
