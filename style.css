@@ -1,0 +1,50 @@
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.half-width{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+  background-color: orange;
+    border-radius: 20px;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+}
+.flex{background-image: url(images/shapes/7.png);
+    margin-top: 100px;
+    display: flex;
+ 
+    
+}
+    
+    
+
+.half-width2 img{
+ 
+    width: 40%;
+   
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.top{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-right: 100px;
+}
+.top p{
+    font-size: 20px;
+    margin-right: 100px
+}
